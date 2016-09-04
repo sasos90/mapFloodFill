@@ -1,0 +1,9 @@
+c:\users\saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Zemljevid_Graf.csprojResolveAssemblyReference.cache
+c:\users\saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Zemljevid_Graf.Form1.resources
+c:\users\saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Zemljevid_Graf.Properties.Resources.resources
+c:\users\saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Zemljevid_Graf.csproj.GenerateResource.Cache
+C:\Users\Saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\bin\Debug\Risanje grafov.exe
+C:\Users\Saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\bin\Debug\Risanje grafov.pdb
+C:\Users\Saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Risanje grafov.exe
+C:\Users\Saso\documents\visual studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Risanje grafov.pdb
+C:\Users\Saso\Documents\Visual Studio 2013\Projects\Zemljevid_Graf\Zemljevid_Graf\obj\Debug\Zemljevid_Graf.csproj.ResolveComReference.cache
